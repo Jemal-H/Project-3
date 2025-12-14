@@ -514,6 +514,7 @@ export default function ReindeerGamesPuzzle() {
       setPowerUps({ ...powerUps, autoSolve: powerUps.autoSolve - 1 });
       alert('Auto-solve used! One tile moved closer to solution.');
       trackAnalytics('powerup_used', { type: 'auto_solve' });
+      handlePuzzleSolved();
     }
   };
 
