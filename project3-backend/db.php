@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "";  // your MySQL password
+$pass = ""; 
 $dbname = "reindeer_games";
 
 header("Access-Control-Allow-Origin: *");
@@ -17,3 +17,4 @@ try {
     exit;
 }
 ?>
+
