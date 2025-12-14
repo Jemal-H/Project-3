@@ -143,7 +143,7 @@ Jemal Hussien
 
 Syed Shoyeb
 
-Joshua Polak
+Joshua Polak(Contrubutions: Wrote the php code and coded Mysql database in mariadb command line. Configured the api calls and fine tuned the react to correctly proccess the data from the backend php and sql. Set up the live website using NPM build to convert react jsx files to raw javascript files as script folder. And connected the script and json asset manifest to live server hosted on infinityfree. Ai used to troubleshoot CORS connection for the php, ie fix errors with php header calls. Also ai used to walk through setting up the live database with github pages and infinityfree.)
 
 Statement of Acknowledgment
 
